@@ -1,1 +1,5 @@
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+$ git init
+$ git add .
+$ git commit -m "Prvni  commit"
